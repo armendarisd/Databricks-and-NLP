@@ -1,0 +1,8 @@
+Links para acceso a las pruebas técnicas
+
+Para el desafío 1
+Databricks notebook´s link: https://community.cloud.databricks.com/browse/folders/1978787837334834?o=2826472493243091
+
+Para el desafío 2
+Google colab's link:
+https://colab.research.google.com/drive/1wIU3fgMWDZCd00KbvptuM8uM7aoboo7q?usp=sharing
